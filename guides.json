@@ -1,0 +1,17 @@
+[
+    {
+        "title": "SuiteScript",
+        "items": [
+            {
+                "name": "suitescript_guide",
+                "title": "Getting Started with SuiteScripts",
+                "description": "This introduction to SuiteScripts explains how you can get started writing suitescripts for EP."
+            },
+			{
+				"name": "documentation",
+				"title": "Documenting SuiteScript Files",
+				"description": "This explains how you must format your script documentation while writting suitescripts."
+			}
+        ]
+    }
+]

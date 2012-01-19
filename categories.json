@@ -1,0 +1,37 @@
+[
+	{
+		"name": "SuiteScripts",
+		"groups": [
+			{
+				"name": "User Event",
+				"classes": [
+					"EPI_SUE.*"
+				]
+			},
+			{
+				"name": "Client",
+				"classes": [
+					"EPI_CUE.*"
+				]
+			},
+			{
+				"name": "Suitelet",
+				"classes": [
+					"EPI_SSU.*"
+				]
+			},
+			{
+				"name": "RESTlet",
+				"classes": [
+					"EPI_RST.*"
+				]
+			},
+			{
+				"name": "Scheduled",
+				"classes": [
+					"EPI_SSC.*"
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,11 @@
+{
+    "--output": "/Users/jeffpipas/NetSuite-Docs",
+	"--verbose": [],
+	"--title": "Entertainment NetSuite Docs - SuitesScripts",
+    "--categories": "/Users/jeffpipas/nsduck/categories.json",
+    "--guides": "/Users/jeffpipas/nsduck/guides.json",
+	"--meta-tags": "/Users/jeffpipas/nsduck/meta_tag.rb",
+    "--": [
+		"/Users/jeffpipas/Opportunity"
+    ]
+}
